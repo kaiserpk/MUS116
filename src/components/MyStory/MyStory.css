@@ -1,0 +1,12 @@
+#MyStory {
+  background-color: #2e2f33;
+  color: #fff;
+  overflow: hidden;
+}
+
+.character {
+  object-fit: contain;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 50%;
+}

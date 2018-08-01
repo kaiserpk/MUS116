@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+  font-family: 'Dekko';
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#Expectations,
+#MyStory,
+#Hobbies,
+#Music,
+#College {
+  padding-bottom: 100px;
+}
+
+
+.header {
+  font-family: 'Carter One';
+  font-size: 70px;
+}
+.header.white {
+  color: #fff;
+  text-shadow: rgba(0, 0, 0, 0.3) 0px 10px 5px;
+}
+
+.body {
+  width: 90vw;
+  max-width: 800px;
+  color: #444;
+  font-size: 30px;
+  text-align: left;
+  margin: auto;
+  margin-bottom: 100px;
+}
+.body.white {
+  color: #fff;
+}
+
+.threes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 90vw;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.threes img {
+  height: 150px;
+  width: 150px;
+}
+
+.threes .title {
+  font-family: 'Carter One';
+  font-size: 30px;
+}
+.threes .title.white {
+  color: #fff;
+  text-shadow: rgba(0, 0, 0, 0.3) 0px 10px 5px;
+}
+
+.threes .description {
+  font-size: 20px;
+  color: #555;
+}
+.threes .list {
+  width: max-content;
+  background-color: #fff;
+  color: #444;
+  font-size: 25px;
+  padding: 20px 100px;
+  border-radius: 10px;
+  margin: auto;
+  border-top: 4px solid #000;
+  border-bottom: 10px solid #000;
+  border-radius: 13px;
+  text-align: left;
+}
+.threes .list > div {
+  padding: 5px 0;
+}
+
+.threes > .column {
+  flex: 1;
+  margin-left: 20px;
+  margin-right: 20px;
+}
