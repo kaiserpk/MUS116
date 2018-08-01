@@ -19,8 +19,10 @@ export default class MyStory extends Component {
           From my music taste to my hobbies, I was always the anomaly of my friend
           group. As a male, you are expected to be assertive, extroverted, and
           analytical, rather than emotional. I was the opposite. I always wondered
-          why I was not as outgoing or confident as the other guys. This is an 
-          analysis of how and why I felt out of place in society growing up.
+          why I was not as outgoing or confident as the other guys. At times, I was 
+          even bullied for not being as "alpha" as the other guys. This is an 
+          analysis of how and why I felt out of place in society growing up and the story 
+          of how I came to love myself.
         </p>
 
         <div className="threes">
@@ -38,10 +40,11 @@ export default class MyStory extends Component {
             >
               <h1 className="title white"> Ideal Male </h1>
               <div className="list">
-                <div> Extroverted </div>
-                <div> Athletic </div>
-                <div> Assertive </div>
+                <div> Alpha </div>
                 <div> Analytical </div>
+                <div> Assertive </div>
+                <div> Athletic </div>
+                <div> Extroverted </div>
               </div>
             </div>
           </div>
@@ -59,8 +62,9 @@ export default class MyStory extends Component {
             >
               <h1 className="title white"> 15 Year Old Me </h1>
               <div className="list">
-                <div> Introverted </div>
                 <div> Artistic </div>
+                <div> Compassionate </div>
+                <div> Introverted </div>
                 <div> Sensitive </div>
                 <div> Shy </div>
               </div>

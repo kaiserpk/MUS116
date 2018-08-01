@@ -19,7 +19,8 @@ export default class Expectations extends Component {
           placed upon us. From a young age, we are taught that these societal values
           are what we should value as well. Many adhere to these standards and accept
           them as the norm, but those who do not fit the mold are branded as outcasts.
-          Such expectations include the following:
+          With the large presence of media in this day and age, people are especially
+          influenced by the opinions of others. Such expectations include the following:
         </p>
 
         <div className="threes">
@@ -34,7 +35,7 @@ export default class Expectations extends Component {
               data-aos="fade-up"
               data-aos-duration="600"
             >
-              <h1 className="title"> Education </h1>
+              <h1 className="title"> Occupation </h1>
               <p className="description">
                 There is a large discrepancy between the types of jobs that are occupied
                 by women and men. Most men are categorized as being fit as engineers,

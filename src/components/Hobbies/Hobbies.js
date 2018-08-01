@@ -15,12 +15,15 @@ export default class Hobbies extends Component {
           data-aos-offset="250"
           data-aos-duration="600"
         >
-          I've always considered myself more artistic than
-          the average male in high school. Most of my peers
-          were into some form of sports. However, I was mainly
-          interested in drawing, reading, and singing. Since 
-          most of my friends would be athletic and great at sports,
-          I often felt out of place.
+          I've always considered myself more artistic than the 
+          average male in high school. Most of my peers were into 
+          some form of sports. However, I was mainly interested in 
+          drawing, reading, and singing. Since most of my friends would
+          be athletic and great at sports, I often felt out of place. 
+          I had a hard time finding commonalities with other guys since
+          our ideas of fun were so different. During recess, while most
+          of my friend were out playing sports, I preferred to stay in a
+          classroom and read a book.
         </p>
 
         <div className="threes">
